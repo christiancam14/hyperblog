@@ -1,6 +1,28 @@
 body{
 	background-color: #B2FFFF;
 	text-shadow: 3px 3px 3px gray;
-	text-align: center;
+	text-align: center; 
 	font-family: "Arial";
+	font-size: 16px; 
+}
+
+#fotoAmor
+{
+	width: 40%;
+	opacity: 50%;
+}
+
+#container
+{
+	width: 70%;
+	padding: 1em;
+	text-align: center;
+	border: 1px solid #DDD;
+	margin: 0 auto;
+	box-shadow: 3px 3px 3px 3px black;
+}
+
+#container h1
+{
+	font-size: 20px;
 }
